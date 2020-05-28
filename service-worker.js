@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GoReadMistborn/precache-manifest.79a909d886e82b1b558a8a57cf0b3056.js"
+  "/GoReadMistborn/precache-manifest.1fdf694d8194200c2ddf4137818da419.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "423968d51befd7c5f656a15d7263e30b",
+    "revision": "cf158dfa80e6930ae7d2536b92bc79d3",
     "url": "/GoReadMistborn/index.html"
   },
   {
-    "revision": "36e735593403d07aa0cd",
+    "revision": "7d51f3ace1bb05ea6b04",
     "url": "/GoReadMistborn/static/css/main.d9329d7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GoReadMistborn/static/js/2.bf83892a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36e735593403d07aa0cd",
-    "url": "/GoReadMistborn/static/js/main.03390062.chunk.js"
+    "revision": "7d51f3ace1bb05ea6b04",
+    "url": "/GoReadMistborn/static/js/main.3d37735d.chunk.js"
   },
   {
     "revision": "06a32822e30961cb3d6b",

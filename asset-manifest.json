@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GoReadMistborn/static/css/main.d9329d7d.chunk.css",
-    "main.js": "/GoReadMistborn/static/js/main.03390062.chunk.js",
-    "main.js.map": "/GoReadMistborn/static/js/main.03390062.chunk.js.map",
+    "main.js": "/GoReadMistborn/static/js/main.3d37735d.chunk.js",
+    "main.js.map": "/GoReadMistborn/static/js/main.3d37735d.chunk.js.map",
     "runtime-main.js": "/GoReadMistborn/static/js/runtime-main.dceba3f4.js",
     "runtime-main.js.map": "/GoReadMistborn/static/js/runtime-main.dceba3f4.js.map",
     "static/js/2.bf83892a.chunk.js": "/GoReadMistborn/static/js/2.bf83892a.chunk.js",
     "static/js/2.bf83892a.chunk.js.map": "/GoReadMistborn/static/js/2.bf83892a.chunk.js.map",
     "index.html": "/GoReadMistborn/index.html",
-    "precache-manifest.79a909d886e82b1b558a8a57cf0b3056.js": "/GoReadMistborn/precache-manifest.79a909d886e82b1b558a8a57cf0b3056.js",
+    "precache-manifest.1fdf694d8194200c2ddf4137818da419.js": "/GoReadMistborn/precache-manifest.1fdf694d8194200c2ddf4137818da419.js",
     "service-worker.js": "/GoReadMistborn/service-worker.js",
     "static/css/main.d9329d7d.chunk.css.map": "/GoReadMistborn/static/css/main.d9329d7d.chunk.css.map",
     "static/js/2.bf83892a.chunk.js.LICENSE.txt": "/GoReadMistborn/static/js/2.bf83892a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dceba3f4.js",
     "static/js/2.bf83892a.chunk.js",
     "static/css/main.d9329d7d.chunk.css",
-    "static/js/main.03390062.chunk.js"
+    "static/js/main.3d37735d.chunk.js"
   ]
 }
